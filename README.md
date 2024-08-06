@@ -1,5 +1,7 @@
 # Where are typical Swiss placename suffixes used?
 
+For example **-ikon** in Dietikon or **-ingen** from Wettingen?
+
 The [etymology](https://www.aargauerzeitung.ch/aargau/freiamt/fast-alle-freiamter-ortsnamen-sind-alemannisch-was-es-mit-ikon-und-wil-auf-sich-hat-ld.1526719) and the [article](https://roaldin.ch/plaatsikon) for my blog.
 
 ![](au_277.png)
